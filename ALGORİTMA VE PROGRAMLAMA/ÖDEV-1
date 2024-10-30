@@ -1,1 +1,144 @@
-Verilen problemlere ait algoritmaları metinsel ifadesini ve sözde kodunu yazınız.
+********** ALGORİTMA VE PROGRAMLAMA ÖDEV 1 **********
+
+                                                                               HAZIRLAYAN : 05240516016-CELAL KARADAĞ
+------------------------------------------------------------------------------------------------------------------------------
+1.sorunun cevabı:
+    
+
+
+Sözde kodu:
+
+1.adım:Başla
+2.adım:vizeNotu=60
+3.adım:finalNotu=70
+4.adım:HesaplananGeçmeNotu=(vizeNotu * 0.4) + (finalNotu * 0.6)
+5.adım:"Ayşe'nin geçme notu: ", HesaplananGeçmeNotu Yazdır
+6.adım:Bitir
+
+
+
+
+Metinsel kodu:
+
+1.adım:Başla
+2.adım:vizeNotu değişkenini tanımla
+3.adım:finalNotu değişkenini tanımla
+4.adım:HesaplananGeçmeNotu değişkenini tanımla
+5.adım:vizeNotu değişkenini 60 olarak belirle
+6.adım:finalNotu değişkenini 70 olarak belirle
+7.adım:HesaplananGeçmeNotu değişkenini (vizeNotu * 0.4) + (finalNotu * 0.6) olarak hesapla
+8.adım:HesaplananGeçmeNotu değişkeninin sonucunu ekrana yazdır
+9.adım:Bitir
+------------------------------------------------------------------------------------------------------------------------------
+2.sorunun cevabı(Ayşe):
+
+
+
+Sözde kodu:
+
+1.adım:Başla
+2.adım:vizeNotu=60
+3.adım:finalNotu=70
+4.adım:GeçmeNotu = 40
+5.adım:HesaplananGeçmeNotu=(vizeNotu * 0.4) + (finalNotu * 0.6)
+6.adım:Eğer HesaplananGeçmeNotu<GeçmeNotu ise
+7.adım:"Kaldı" Yazdır
+8.adım:Eğer HesaplananGeçmeNotu>=GeçmeNotu ise
+9.adım:"Geçti" Yazdır
+10.adım:Bitir
+
+
+
+
+Metinsel kodu:
+
+1.adım:Başla
+2.adım:vizeNotu değişkenini tanımla
+3.adım:finalNotu değişkenini tanımla
+4.adım:GeçmeNotu değişkenini tanımla
+5.adım:HesaplananGeçmeNotu değişkenini tanımla
+6.adım:vizeNotu değişkenini 60 olarak belirle
+7.adım:finalNotu değişkenini 70 olarak belirle
+8.adım:GeçmeNotu değişkenini 40 olarak belirle
+9.adım:HesaplananGeçmeNotu değişkenini (vizeNotu * 0.4) + (finalNotu * 0.6) olarak hesapla
+10.adım:Eğer HesaplananGeçmeNotu<GeçmeNotu ise ekrana "Kaldı" Yazdır
+11.adım:Eğer HesaplananGeçmeNotu>=GeçmeNotu ise ekrana "Geçti" Yazdır
+12.adım:Bitir
+------------------------------------------------------------------------------------------------------------------------------
+3.sorunun cevabı(Selim):
+
+
+
+
+Sözde kodu:
+
+1.adım:Başla
+2.adım:vizeNotu=60
+3.adım:finalNotu=40
+4.adım:GeçmeNotu = 40
+5.adım:HesaplananGeçmeNotu=(vizeNotu * 0.4) + (finalNotu * 0.6)
+6.adım:Eğer HesaplananGeçmeNotu<GeçmeNotu ise
+7.adım:"Kaldı" Yazdır
+8.adım:Eğer HesaplananGeçmeNotu>=GeçmeNotu ise
+9.adım:"Geçti" Yazdır
+10.adım:Bitir
+
+
+
+
+Metinsel kodu:
+
+1.adım:Başla
+2.adım:vizeNotu değişkenini tanımla
+3.adım:finalNotu değişkenini tanımla
+4.adım:GeçmeNotu değişkenini tanımla
+5.adım:HesaplananGeçmeNotu değişkenini tanımla
+6.adım:vizeNotu değişkenini 60 olarak belirle
+7.adım:finalNotu değişkenini 40 olarak belirle
+8.adım:GeçmeNotu değişkenini 40 olarak belirle
+9.adım:HesaplananGeçmeNotu değişkenini (vizeNotu * 0.4) + (finalNotu * 0.6) olarak hesapla
+10.adım:Eğer HesaplananGeçmeNotu<GeçmeNotu ise ekrana "Kaldı" Yazdır
+11.adım:Eğer HesaplananGeçmeNotu>=GeçmeNotu ise ekrana "Geçti" Yazdır
+12.adım:Bitir
+------------------------------------------------------------------------------------------------------------------------------
+4.sorunun cevabı:
+
+
+
+Sözde kodu:
+
+1.adım:Başla
+2.adım:i=0
+3.adım:İçin i < 101 
+4.adım:Eğer i % 2 == 0 ise
+5.adım:Yazdır(i)
+6.adım:Eğer i % 2 == 1 ise
+7.adım:Yazdır(" ")
+8.adım:Bitir
+
+
+
+Metinsel kodu:
+
+1.adım:Başla
+2.adım:i değişkenini 0 ile tanımlama
+3.adım:i değişkenini 0 ile 100 arasındaki sayıları kontrol edecek şekilde sırayla al
+4.adım:Eğer sayı çift ise sayıyı ekrana Yazdır 
+5.adım:Eğer sayı tek ise ekrana boşluk Yazdır
+6.adım:Bitir
+------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
